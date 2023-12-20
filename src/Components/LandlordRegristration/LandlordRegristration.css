@@ -1,0 +1,127 @@
+.group-child-reg {
+  position: absolute;
+  top: -0.78px;
+  left: -0.78px;
+  width: 77.94px;
+  height: 56.12px;
+}
+.ou-reg {
+  color: #ecdb84;
+}
+.bgr-reg,
+.house-reg {
+  position: absolute;
+  top: 26.5px;
+  left: 7.79px;
+}
+.bgr-reg {
+  top: 10.91px;
+  left: 15.59px;
+  font-size: 21.82px;
+  font-weight: 900;
+  text-shadow: 0 6.235294818878174px 6.24px rgba(0, 0, 0, 0.25);
+}
+.blue-house-icon-isolated-reg {
+  position: absolute;
+  top: 6.24px;
+  left: 14.03px;
+  width: 18.71px;
+  height: 15.59px;
+  object-fit: cover;
+}
+.vector-parent-reg {
+  position: absolute;
+  top: 45.72px;
+  left: 96px;
+  width: 76.38px;
+  height: 54.56px;
+  font-size: 18.71px;
+}
+.httpslottiefilescomanimat-icon-reg {
+  position: absolute;
+  top: calc(50% - 227.5px);
+  left: 675px;
+  width: 509px;
+  height: 455px;
+  object-fit: cover;
+}
+.step-1-reg {
+  position: relative;
+}
+.in-this-step-reg,
+.tell-us-about-reg {
+  position: relative;
+  font-size: 26px;
+}
+.in-this-step-reg {
+  font-size: 14px;
+  line-height: 0%;
+  color: #454545;
+  text-align: left;
+  display: inline-block;
+  width: 304px;
+  height: 48px;
+  flex-shrink: 0;
+}
+.step-1-parent-reg {
+  position: absolute;
+  top: calc(50% - 17.5px);
+  left: 96px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  color: #171313;
+  font-family: Arial;
+}
+.back-reg {
+  position: absolute;
+  top: 13px;
+  left: 51px;
+  font-weight: 500;
+}
+.back-wrapper-reg {
+  position: absolute;
+  top: 653px;
+  left: 96px;
+  border-radius: 16px;
+  background-color: #ecdb84;
+  box-shadow: 0 0 15.75px 3.75px rgba(190, 189, 189, 0.4);
+  border: 0.8px solid #bebdbd;
+  box-sizing: border-box;
+  width: 144px;
+  height: 51px;
+  cursor: pointer;
+  color: #171313;
+}
+.next-reg {
+  position: absolute;
+  top: 13px;
+  left: 53px;
+  font-weight: 500;
+}
+.next-wrapper-reg {
+  position: absolute;
+  top: 653px;
+  left: 1039px;
+  border-radius: 16px;
+  background-color: #146859;
+  box-shadow: 0 0 15.75px 3.75px rgba(190, 189, 189, 0.4);
+  border: 0.8px solid #bebdbd;
+  box-sizing: border-box;
+  width: 144px;
+  height: 51px;
+  cursor: pointer;
+}
+.land-lord-registration-reg {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 723px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 16px;
+  color: #fff;
+  font-family: Poppins;
+}

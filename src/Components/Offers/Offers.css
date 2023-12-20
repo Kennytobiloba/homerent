@@ -1,0 +1,326 @@
+.group-child-offers {
+    position: absolute;
+    top: -0.78px;
+    left: -0.78px;
+    width: 77.94px;
+    height: 56.12px;
+  }
+  .ou-offers {
+    color: #ecdb84;
+  }
+  .bgr-offers,
+  .house-offers {
+    position: absolute;
+    top: 26.5px;
+    left: 7.79px;
+  }
+  .bgr-offers {
+    top: 10.91px;
+    left: 15.59px;
+    font-size: 21.82px;
+    font-weight: 900;
+    text-shadow: 0 6.235294818878174px 6.24px rgba(0, 0, 0, 0.25);
+  }
+  .blue-house-icon-isolated-offers {
+    position: absolute;
+    top: 6.24px;
+    left: 14.03px;
+    width: 18.71px;
+    height: 15.59px;
+    object-fit: cover;
+  }
+  .vector-parent-offers {
+    position: absolute;
+    top: 45.72px;
+    left: 96px;
+    width: 76.38px;
+    height: 54.56px;
+    cursor: pointer;
+    font-size: 18.71px;
+    color: #fff;
+    font-family: Poppins;
+  }
+  .how-many-toilets-offers,
+  .tell-your-tenants-offers {
+    position: absolute;
+    top: 168px;
+    left: calc(50% - 429px);
+    font-size: 42px;
+  }
+  .how-many-toilets-offers {
+    top: 177px;
+    left: calc(50% - 1184px);
+    display: inline-block;
+    width: 640px;
+    opacity: 0;
+  }
+  .frame-child-offers {
+    position: absolute;
+    top: -20px;
+    left: calc(50% - 91.5px);
+    background-color: #146859;
+    width: 184px;
+    height: 122px;
+  }
+  .spacious-bedroom {
+    position: absolute;
+    top: 49px;
+    left: calc(50% - 66.5px);
+    line-height: 153.99%;
+  }
+  .frame-item-offers {
+    position: absolute;
+    top: -20px;
+    left: -184px;
+    background-color: #146859;
+    width: 184px;
+    height: 122px;
+  }
+  .vector-icon-offers {
+    position: absolute;
+    top: 19px;
+    left: calc(50% - 11.5px);
+    width: 24px;
+    height: 21px;
+  }
+  .rectangle-parent-offers {
+    position: relative;
+    border-radius: 8px;
+    border: 0.5px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 177px;
+    height: 90px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .frame-inner-offers {
+    position: absolute;
+    top: calc(50% - 61px);
+    left: calc(50% - 91.5px);
+    background-color: #146859;
+    width: 184px;
+    height: 122px;
+  }
+  .standard-built-gym-offers {
+    position: absolute;
+    top: 49px;
+    left: calc(50% - 60.5px);
+    line-height: 129.49%;
+    display: inline-block;
+    width: 122px;
+  }
+  .vector-icon1-offers {
+    position: absolute;
+    top: 17px;
+    left: 77px;
+    width: 24px;
+    height: 24px;
+  }
+  .rectangle-group-offers {
+    position: relative;
+    border-radius: 8px;
+    border: 0.5px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 177px;
+    height: 90px;
+    overflow: hidden;
+    flex-shrink: 0;
+    text-align: center;
+  }
+  .a-bedroom-flat-offers {
+    position: absolute;
+    top: 49px;
+    left: 36px;
+    line-height: 153.99%;
+  }
+  .vector-group-offers {
+    position: relative;
+    border-radius: 8px;
+    border: 0.5px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 177px;
+    height: 90px;
+    overflow: hidden;
+    flex-shrink: 0;
+    cursor: pointer;
+    color: #454545;
+  }
+  .frame-parent-offers {
+    position: absolute;
+    top: 296px;
+    left: 208px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    text-align: left;
+    color: #fff;
+  }
+  .spacious-living-room-offers {
+    position: absolute;
+    top: 50.69px;
+    left: calc(50% - 73.5px);
+    line-height: 153.99%;
+  }
+  .vector-icon4-offers {
+    position: absolute;
+    top: 24px;
+    left: calc(50% - 11.5px);
+    width: 24px;
+    height: 17.45px;
+  }
+  .security-post-offers {
+    position: absolute;
+    top: 49px;
+    left: calc(50% - 47.5px);
+    line-height: 153.99%;
+  }
+  .group-icon-offers {
+    position: absolute;
+    height: 26.67%;
+    width: 13.56%;
+    top: 27.78%;
+    right: 42.94%;
+    bottom: 45.56%;
+    left: 43.5%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .car-park-facility-offers {
+    position: absolute;
+    top: 49px;
+    left: calc(50% - 55.5px);
+    line-height: 153.99%;
+  }
+  .vector-icon5-offers {
+    position: absolute;
+    top: 23px;
+    left: calc(50% - 11.5px);
+    width: 24px;
+    height: 25.41px;
+  }
+  .private-lounge-offers {
+    position: absolute;
+    top: 49px;
+    left: calc(50% - 51.5px);
+    line-height: 153.99%;
+  }
+  .frame-group-offers {
+    position: absolute;
+    top: 418px;
+    left: 208px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    text-align: left;
+    color: #454545;
+  }
+  .solar-roofing-sheet-offers {
+    position: absolute;
+    top: 51px;
+    left: calc(50% - 73.5px);
+    line-height: 117.99%;
+    display: inline-block;
+    width: 138px;
+  }
+  .vector-icon7-offers {
+    position: absolute;
+    top: 20px;
+    left: calc(50% - 11.5px);
+    width: 24px;
+    height: 25.07px;
+  }
+  .add-more-offers {
+    position: absolute;
+    top: 49px;
+    left: calc(50% - 34.5px);
+    line-height: 153.99%;
+  }
+  .add-round-light-icon-offers {
+    position: absolute;
+    top: 17px;
+    left: calc(50% - 11.5px);
+    width: 24px;
+    height: 24px;
+  }
+  .add-more-parent-offers {
+    position: relative;
+    border-radius: 8px;
+    border: 0.5px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 177px;
+    height: 90px;
+    overflow: hidden;
+    flex-shrink: 0;
+    text-align: left;
+  }
+  .frame-container-offers {
+    position: absolute;
+    top: 540px;
+    left: 208px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    color: #454545;
+  }
+  .back-offers {
+    position: absolute;
+    top: 13px;
+    left: 51px;
+    font-weight: 500;
+  }
+  .back-wrapper-offers {
+    position: relative;
+    border-radius: 16px;
+    border: 1px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 144px;
+    height: 51px;
+    cursor: pointer;
+  }
+  .next-offers {
+    position: absolute;
+    top: 13px;
+    left: 53px;
+    font-weight: 500;
+  }
+  .next-wrapper-offers {
+    position: relative;
+    border-radius: 16px;
+    background-color: #146859;
+    border: 0.8px solid #bebdbd;
+    box-sizing: border-box;
+    width: 144px;
+    height: 51px;
+    cursor: pointer;
+    color: #fff;
+  }
+  .frame-div-offers {
+    position: absolute;
+    top: 670px;
+    left: calc(50% - 203px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 120px;
+    font-family: Poppins;
+  }
+  .land-lord-registration-offers {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 816px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 16px;
+    color: #171313;
+    font-family: Arial;
+  }
+  

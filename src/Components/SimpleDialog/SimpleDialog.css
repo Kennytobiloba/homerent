@@ -1,0 +1,478 @@
+
+.recently-sold-and-dialog  {
+    position: relative;
+    line-height: 110%;
+    font-weight: 500;
+    display: inline-block;
+    width: 291px;
+    height: 34px;
+    flex-shrink: 0;
+  }
+  .recently-sold-and-rent-wrapper-dialog  {
+    position: absolute;
+    top: 2602px;
+    left: -2192px;
+    background-color: #146758;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .frame-child-dialog  {
+    position: relative;
+    width: 287px;
+    height: 272px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .frame-group-dialog ,
+  .frame-parent-dialog  {
+    display: flex;
+    align-items: flex-start;
+    
+  }
+  .frame-group-dialog  {
+    width: 1016px;
+    overflow-x: auto;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 27px;
+  }
+  .frame-parent-dialog  {
+    position: absolute;
+    top: 2644px;
+    left: -2192px;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+  }
+  .listed-few-days-dialog  {
+    position: relative;
+    line-height: 110%;
+    font-weight: 500;
+    display: inline-block;
+    width: 265px;
+    height: 34px;
+    flex-shrink: 0;
+  }
+  .listed-few-days-ago-wrapper-dialog  {
+    background-color: #146758;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .frame-child19-dialog  {
+    position: relative;
+    background-color: #fff;
+    width: 287px;
+    height: 272px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .frame-child20-dialog  {
+    width: 1016px;
+    overflow-x: auto;
+  }
+  .frame-div-dialog ,
+  .frame-parent1-dialog  {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 20px;
+  }
+  .frame-div-dialog  {
+    position: absolute;
+    top: 1936px;
+    left: -2192px;
+    box-shadow: 0 20px 24px rgba(0, 0, 0, 0.12);
+    height: 620px;
+    justify-content: flex-start;
+  }
+  .small-design-child-dialog  {
+    position: absolute;
+    top: -621px;
+    left: 1365px;
+    width: 287px;
+    height: 272px;
+    overflow: hidden;
+    object-fit: cover;
+  }
+  .hero-section-child-dialog  {
+    position: absolute;
+    top: 770.87px;
+    left: -2.62px;
+    width: 1258.42px;
+    height: 153.26px;
+  }
+  .hero-section-item-dialog  {
+    position: absolute;
+    top: 79px;
+    left: 740px;
+    border-radius: 200px;
+    width: 239px;
+    height: 100px;
+  }
+  .looking-dialog  {
+    font-weight: 500;
+  }
+  .place-dialog  {
+    color: #fff;
+  }
+  .for-a-place-to-rentsell-or-bu-dialog  {
+    font-weight: 800;
+  }
+  .looking-for-a-container-dialog  {
+    position: absolute;
+    top: 74px;
+    left: calc(50% - 322px);
+    display: inline-block;
+    width: 646px;
+  }
+  .ellipse-div-dialog ,
+  .hero-section-inner-dialog  {
+    position: absolute;
+    top: 124px;
+    left: 387px;
+    border-radius: 50%;
+    background-color: #cac8c8;
+    width: 11px;
+    height: 11px;
+  }
+  .ellipse-div-dialog  {
+    left: 427px;
+  }
+  .browse-dialog  {
+    position: absolute;
+    top: calc(50% - 24px);
+    left: calc(50% - 60px);
+  }
+  .browse-wrapper-dialog  {
+    position: absolute;
+    top: 327px;
+    left: calc(50% - 124px);
+    border-radius: 8px;
+    background-color: #146758;
+    width: 228px;
+    height: 76px;
+    overflow: hidden;
+    font-size: 32px;
+    color: #fff;
+  }
+  .hero-section-child1-dialog ,
+  .vector-icon-dialog{
+    position: absolute;
+    top: 130px;
+    left: 389px;
+    border-radius: 200px;
+    width: 8px;
+    height: 5px;
+  }
+  .hero-section-child1-dialog  {
+    left: 429px;
+  }
+  .hero-section-child2-dialog ,
+  .hero-section-child3-dialog  {
+    position: absolute;
+    top: 132px;
+    left: 391px;
+    border-radius: 50%;
+    background-color: #fff;
+    width: 3px;
+    height: 3px;
+  }
+  .hero-section-child3-dialog  {
+    left: 431px;
+  }
+  .buy-sell-or-dialog  {
+    position: absolute;
+    top: 249px;
+    left: calc(50% - 215px);
+    font-size: 24px;
+    color: #000;
+  }
+  .hero-section-dialog ,
+  .hero-section1-dialog  {
+    position: absolute;
+    left: 0;
+    width: 1280px;
+    height: 806px;
+  }
+  .hero-section1-dialog  {
+    top: 0;
+    background-color: rgba(255, 255, 255, 0.2);
+    overflow: hidden;
+  }
+  .hero-section-dialog  {
+    top: 56.5px;
+    font-size: 62px;
+    color: #171313;
+  }
+  .frame-child21-dialog  {
+    position: absolute;
+    top: 7.5px;
+    left: 9px;
+    width: 49px;
+    height: 35px;
+  }
+  .ou-dialog  {
+    color: #ecdb84;
+  }
+  .bgr-dialog ,
+  .house-dialog  {
+    position: absolute;
+    top: 24.5px;
+    left: 14px;
+  }
+  .bgr-dialog  {
+    top: 14.5px;
+    left: 19px;
+    font-size: 14px;
+    font-weight: 900;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .blue-house-icon-isolated-dialog  {
+    position: absolute;
+    top: 11.5px;
+    left: 18px;
+    width: 12px;
+    height: 10px;
+    object-fit: cover;
+  }
+  .vector-parent-dialog  {
+    position: absolute;
+    top: 0;
+    left: 129.5px;
+    border-radius: 4px;
+    width: 68px;
+    height: 51px;
+    overflow: hidden;
+    font-size: 12px;
+    color: #fff;
+  }
+  .buy-dialog ,
+  .locations-dialog ,
+  .pricing-dialog ,
+  .rent-dialog ,
+  .review-dialog  {
+    position: absolute;
+    top: 15px;
+    left: 336.5px;
+    font-weight: 500;
+  }
+  .buy-dialog ,
+  .locations-dialog ,
+  .pricing-dialog ,
+  .review-dialog  {
+    left: 428.5px;
+  }
+  .locations-dialog ,
+  .pricing-dialog ,
+  .review-dialog  {
+    left: 515.5px;
+  }
+  .pricing-dialog ,
+  .review-dialog  {
+    left: 643.5px;
+  }
+  .pricing-dialog  {
+    left: 753.5px;
+  }
+  .sign-in-dialog ,
+  .sign-up-dialog-dialog   {
+    position: relative;
+    font-weight: 500;
+  }
+  .sign-in-dialog-dialog   {
+    position: absolute;
+    top: 10px;
+    left: 42px;
+  }
+  .sign-in-wrapper-dialog  {
+    position: relative;
+    border-radius: 8px;
+    background-color: #146758;
+    width: 120px;
+    height: 40px;
+    overflow: hidden;
+    flex-shrink: 0;
+    color: #fff;
+  }
+  .sign-up-parent-dialog  {
+    position: absolute;
+    top: 5.5px;
+    left: 941.5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 36px;
+    color: #146758;
+  }
+  .rectangle-div-dialog  {
+    position: absolute;
+    top: 34.5px;
+    left: 754px;
+    border-radius: 42px;
+    background-color: #146758;
+    width: 20px;
+    height: 1px;
+  }
+  .hero-section-parent-dialog  {
+    position: absolute;
+    top: -355px;
+    left: calc(50% - 5837px);
+    background-color: #fff;
+    width: 1280px;
+    height: 862.5px;
+    font-size: 14px;
+    color: #000;
+  }
+  .land-lord-registration-child-dialog ,
+  .land-lord-registration-inner-dialog ,
+  .land-lord-registration-item-dialog  {
+    position: absolute;
+    top: 78px;
+    left: 32px;
+    border-radius: 8px;
+    width: 446px;
+    height: 408px;
+    overflow: hidden;
+    object-fit: cover;
+  }
+  .land-lord-registration-inner-dialog ,
+  .land-lord-registration-item-dialog  {
+    top: 287px;
+    left: 486px;
+    width: 195px;
+    height: 199px;
+  }
+  .land-lord-registration-inner-dialog  {
+    top: 78px;
+  }
+  .frame-child22-dialog  {
+    position: absolute;
+    top: 137px;
+    left: 135px;
+    border-radius: 50%;
+    background-color: #fff;
+    box-shadow: 0 12px 6px rgba(0, 0, 0, 0.12);
+    width: 53px;
+    height: 53px;
+  }
+  .div-dialog ,
+  .div1-dialog ,
+  .more-dialog ,
+  .pictures-dialog  {
+    position: absolute;
+    top: 147px;
+    left: calc(50% + 49.5px);
+    font-weight: 600;
+  }
+  .div1-dialog ,
+  .more-dialog ,
+  .pictures-dialog  {
+    left: calc(50% + 58.5px);
+  }
+  .more-dialog ,
+  .pictures-dialog  {
+    top: 159px;
+    left: calc(50% + 54.5px);
+    font-size: 8px;
+  }
+  .pictures-dialog  {
+    top: 166px;
+    left: calc(50% + 47.5px);
+  }
+  .ellipse-parent-dialog ,
+  .land-lord-registration-child1-dialog  {
+    position: absolute;
+    left: 691px;
+    border-radius: 8px;
+    width: 195px;
+    height: 199px;
+    overflow: hidden;
+  }
+  .ellipse-parent-dialog  {
+    top: 287px;
+    background-image: url(/public/frame-178@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  .land-lord-registration-child1-dialog  {
+    top: 78px;
+    object-fit: cover;
+  }
+  .comodo-house-dialog  {
+    position: absolute;
+    top: 26px;
+    left: 32px;
+    font-size: 32px;
+    line-height: 122%;
+    font-weight: 600;
+  }
+  .click-to-view-dialog  {
+    position: relative;
+    font-weight: 600;
+  }
+  .click-to-view-more-details-wrapper-dialog  {
+    position: absolute;
+    top: 512px;
+    left: 407px;
+    border-radius: 8px;
+    background-color: #146859;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    cursor: pointer;
+    color: #fff;
+  }
+  .land-lord-registration-dialog  {
+    position: absolute;
+    top: calc(50% - 284px);
+    left: calc(50% - 464px);
+    border-radius: 24px;
+    background-color: #fff;
+    box-shadow: 0 22px 12px 9px rgba(0, 0, 0, 0.12);
+    width: 928px;
+    height: 568px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 12px;
+    color: #171313;
+  }
+  .small-design-dialog {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 724px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 24px;
+    color: #fff;
+    font-family: Poppins;
+  }
+  
+  /* SimpleDialog.css */
+/* Add the following styles to hide the overflow */
+
+  /* Add the following styles to customize the dialog content scroll */
+  .MuiDialog-paperScrollBody {
+    overflow-y: hidden;
+  }
+  
+  /* Add the following styles to customize the dialog content padding */
+  .MuiDialogContent-root {
+    padding: 0;
+  }
+  
+  /* Add the following styles to customize the dialog title padding */
+  .MuiDialogTitle-root {
+    padding: 0;
+  }
+  

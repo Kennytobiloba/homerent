@@ -1,0 +1,204 @@
+.group-child-one {
+    position: absolute;
+    top: -0.78px;
+    left: -0.78px;
+    width: 77.94px;
+    height: 56.12px;
+  }
+  .ou-one {
+    color: #ecdb84;
+  }
+  .bgr-one,
+  .house-one {
+    position: absolute;
+    top: 26.5px;
+    left: 7.79px;
+  }
+  .bgr-one {
+    top: 10.91px;
+    left: 15.59px;
+    font-size: 21.82px;
+    font-weight: 900;
+    text-shadow: 0 6.235294818878174px 6.24px rgba(0, 0, 0, 0.25);
+  }
+  .blue-house-icon-isolated-one {
+    position: absolute;
+    top: 6.24px;
+    left: 14.03px;
+    width: 18.71px;
+    height: 15.59px;
+    object-fit: cover;
+  }
+  .vector-parent-one {
+    position: absolute;
+    top: 45.72px;
+    left: 96px;
+    width: 76.38px;
+    height: 54.56px;
+    cursor: pointer;
+    font-size: 18.71px;
+    color: #fff;
+    font-family: Poppins;
+  }
+  .what-type-of-one {
+    position: absolute;
+    top: 168px;
+    left: calc(50% - 320px);
+    font-size: 42px;
+    display: inline-block;
+    color: #171313;
+    width: 640px;
+  }
+  .back-one {
+    position: absolute;
+    top: 13px;
+    left: 51px;
+    font-weight: 500;
+  }
+  .back-wrapper-one {
+    position: absolute;
+    top: 653px;
+    left: 96px;
+    border-radius: 16px;
+    background-color: #ecdb84;
+    box-shadow: 0 0 15.75px 3.75px rgba(190, 189, 189, 0.4);
+    border: 0.8px solid #bebdbd;
+    box-sizing: border-box;
+    width: 144px;
+    height: 51px;
+    color: #171313;
+    font-family: Poppins;
+  }
+  .next-one {
+    position: absolute;
+    top: 13px;
+    left: 53px;
+    font-weight: 500;
+  }
+  .next-wrapper-one {
+    position: absolute;
+    top: 653px;
+    left: 1039px;
+    border-radius: 16px;
+    background-color: #146859;
+    box-shadow: 0 0 15.75px 3.75px rgba(190, 189, 189, 0.4);
+    border: 0.8px solid #bebdbd;
+    box-sizing: border-box;
+    width: 144px;
+    height: 51px;
+    color: #fff;
+    font-family: Poppins;
+  }
+  .vector-icon-one {
+    position: absolute;
+    top: 17px;
+    left: 81.5px;
+    width: 24px;
+    height: 24px;
+  }
+  .a-storey-building-one {
+    position: absolute;
+    top: 49px;
+    left: 29px;
+    line-height: 153.99%;
+  }
+  .frame-child-one {
+    position: absolute;
+    top: -20px;
+    left: -184px;
+    background-color: #146859;
+    width: 184px;
+    height: 122px;
+  }
+  .vector-group-one {
+    position: absolute;
+    top: 312px;
+    left: 443px;
+    border-radius: 8px;
+    border: 0.5px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 177px;
+    height: 90px;
+    overflow: hidden;
+    text-align: left;
+  }
+  .vector-icon1-one {
+    position: absolute;
+    top: 17px;
+    left: 77px;
+    width: 24px;
+    height: 24px;
+  }
+  .a-bedroom-flat-one {
+    position: absolute;
+    top: 49px;
+    left: 36px;
+    line-height: 153.99%;
+  }
+  .vector-container-one {
+    position: absolute;
+    top: 312px;
+    left: 660px;
+    border-radius: 8px;
+    border: 0.5px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 177px;
+    height: 90px;
+    overflow: hidden;
+    text-align: left;
+  }
+  .vector-icon2-one {
+    position: absolute;
+    top: 15px;
+    left: 77px;
+    width: 24px;
+    height: 27.69px;
+  }
+  .bungalow-one {
+    position: absolute;
+    top: 50.69px;
+    left: 53px;
+    line-height: 153.99%;
+  }
+  .frame-div-one {
+    position: absolute;
+    top: 434px;
+    left: 443px;
+    border-radius: 8px;
+    border: 0.5px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 177px;
+    height: 90px;
+    overflow: hidden;
+    text-align: left;
+  }
+  .mansion-one {
+    position: absolute;
+    top: 49px;
+    left: 58px;
+    line-height: 153.99%;
+  }
+  .vector-parent1-one {
+    position: absolute;
+    top: 434px;
+    left: 660px;
+    border-radius: 8px;
+    border: 0.5px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 177px;
+    height: 90px;
+    overflow: hidden;
+    text-align: left;
+  }
+  .land-lord-registration-one {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 723px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 16px;
+    color: #454545;
+    font-family: Arial;
+  }
+  

@@ -1,0 +1,154 @@
+.group-child-type {
+  position: absolute;
+  top: -0.78px;
+  left: -0.78px;
+  width: 77.94px;
+  height: 56.12px;
+}
+.ou-type {
+  color: #ecdb84;
+}
+.bgr-type,
+.house-type {
+  position: absolute;
+  top: 26.5px;
+  left: 7.79px;
+}
+.bgr-type {
+  top: 10.91px;
+  left: 15.59px;
+  font-size: 21.82px;
+  font-weight: 900;
+  text-shadow: 0 6.235294818878174px 6.24px rgba(0, 0, 0, 0.25);
+}
+.blue-house-icon-isolated-type {
+  position: absolute;
+  top: 6.24px;
+  left: 14.03px;
+  width: 18.71px;
+  height: 15.59px;
+  object-fit: cover;
+}
+.vector-parent-type {
+  position: absolute;
+  top: 45.72px;
+  left: 96px;
+  width: 76.38px;
+  height: 54.56px;
+  cursor: pointer;
+  font-size: 18.71px;
+  color: #fff;
+  font-family: Poppins;
+}
+.how-many-rooms-type,
+.how-many-toilets-type {
+  position: absolute;
+  top: 168px;
+  display: inline-block;
+  width: 640px;
+}
+.how-many-toilets-type {
+  left: calc(50% + 640px);
+}
+.how-many-rooms-type {
+  left: 320px;
+}
+.div-type {
+  position: absolute;
+  top: 18px;
+  left: 54px;
+  line-height: 153.99%;
+}
+.frame-child-type,
+.parent {
+  position: absolute;
+  overflow: hidden;
+}
+.frame-child-type {
+  width: 13.35%;
+  top: calc(50% - 3.64px);
+  right: 6.57%;
+  left: 80.07%;
+  max-width: 100%;
+  height: 7.03px;
+}
+.parent-type {
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  border: 1px solid #26b99e;
+  box-sizing: border-box;
+  width: 117px;
+  height: 60px;
+}
+.frame-parent-type,
+.vector-icon-type {
+  position: absolute;
+  top: 18px;
+  left: 149px;
+  width: 24px;
+  height: 24px;
+}
+.frame-parent-type {
+  top: 344px;
+  left: 553.5px;
+  width: 173px;
+  height: 60px;
+  text-align: left;
+  font-size: 16px;
+}
+.back-type {
+  position: absolute;
+  top: 13px;
+  left: 51px;
+  font-weight: 500;
+}
+.back-wrapper-type {
+  position: relative;
+  border-radius: 16px;
+  border: 1px solid #d9d9d9;
+  box-sizing: border-box;
+  width: 144px;
+  height: 51px;
+  cursor: pointer;
+}
+.next-type {
+  position: absolute;
+  top: 13px;
+  left: 53px;
+  font-weight: 500;
+}
+.next-wrapper-type {
+  position: relative;
+  border-radius: 16px;
+  background-color: #146859;
+  border: 0.8px solid #bebdbd;
+  box-sizing: border-box;
+  width: 144px;
+  height: 51px;
+  cursor: pointer;
+  color: #fff;
+}
+.frame-group-type {
+  position: absolute;
+  top: 444px;
+  left: calc(50% - 203px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 120px;
+  font-size: 16px;
+  font-family: Poppins;
+}
+.land-lord-registration-type {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 723px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 42px;
+  color: #171313;
+  font-family: Arial;
+}

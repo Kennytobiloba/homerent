@@ -1,0 +1,133 @@
+.group-child-publish {
+    position: absolute;
+    top: -0.78px;
+    left: -0.78px;
+    width: 77.94px;
+    height: 56.12px;
+  }
+  .ou-publish {
+    color: #ecdb84;
+  }
+  .bgr-publish,
+  .house-publish {
+    position: absolute;
+    top: 26.5px;
+    left: 7.79px;
+  }
+  .bgr-publish {
+    top: 10.91px;
+    left: 15.59px;
+    font-size: 21.82px;
+    font-weight: 900;
+    text-shadow: 0 6.235294818878174px 6.24px rgba(0, 0, 0, 0.25);
+  }
+  .blue-house-icon-isolated-publish {
+    position: absolute;
+    top: 6.24px;
+    left: 14.03px;
+    width: 18.71px;
+    height: 15.59px;
+    object-fit: cover;
+  }
+  .vector-parent-publish {
+    position: absolute;
+    top: 45.72px;
+    left: 96px;
+    width: 76.38px;
+    height: 54.56px;
+    font-size: 18.71px;
+  }
+  .back-publish {
+    position: absolute;
+    top: 13px;
+    left: 51px;
+    font-weight: 500;
+  }
+  .back-wrapper-publish {
+    position: absolute;
+    top: 653px;
+    left: 96px;
+    border-radius: 16px;
+    background-color: #ecdb84;
+    box-shadow: 0 0 15.75px 3.75px rgba(190, 189, 189, 0.4);
+    border: 0.8px solid #bebdbd;
+    box-sizing: border-box;
+    width: 144px;
+    height: 51px;
+    cursor: pointer;
+    color: #171313;
+  }
+  .next-publish {
+    position: absolute;
+    top: 13px;
+    left: 53px;
+    font-weight: 500;
+  }
+  .next-wrapper-publish {
+    position: absolute;
+    top: 653px;
+    left: 1039px;
+    border-radius: 16px;
+    background-color: #146859;
+    box-shadow: 0 0 15.75px 3.75px rgba(190, 189, 189, 0.4);
+    border: 0.8px solid #bebdbd;
+    box-sizing: border-box;
+    width: 144px;
+    height: 51px;
+    cursor: pointer;
+  }
+  .step-3-publish {
+    position: relative;
+  }
+  
+  .finish-and-publish {
+    position: relative;
+    font-size: 26px;
+  }
+  .check-all-the-publish{
+    position: relative;
+    font-size: 26px;
+    line-height: 42px;
+  }
+  .check-all-the-publish {
+    font-size: 14px;
+    line-height: 22px;
+    color: #454545;
+    text-align: left;
+    display: inline-block;
+    width: 304px;
+    height: 48px;
+    flex-shrink: 0;
+  }
+  .step-3-parent-publish {
+    position: absolute;
+    top: calc(50% - 16.5px);
+    left: 96px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 24px;
+    color: #171313;
+    font-family: Arial;
+  }
+  .httpslottiefilescomanimat-icon-publish {
+    position: absolute;
+    top: calc(50% - 131.5px);
+    left: 684px;
+    width: 500px;
+    height: 375px;
+    object-fit: cover;
+  }
+  .land-lord-registration-publish {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 723px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    font-family: Poppins;
+  }
+  

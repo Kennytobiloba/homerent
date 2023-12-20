@@ -1,0 +1,319 @@
+.frame-div {
+    position: absolute;
+    width: calc(100% - 200px);
+    top: calc(50% - 1536.91px);
+    right: 96px;
+    left: 104px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 102px;
+    text-align: center;
+    font-size: 21.09px;
+    color: var(--color-darkslategray);
+  }
+  .frame-child2 {
+    position: absolute;
+    top: 12.76px;
+    left: 15.5px;
+    width: 91.18px;
+    height: 65.65px;
+  }
+  .bgr1,
+  .house1 {
+    position: absolute;
+    top: 44.68px;
+    left: 25.53px;
+  }
+  .bgr1 {
+    top: 26.44px;
+    left: 34.65px;
+    font-size: 25.53px;
+    font-weight: 900;
+    text-shadow: 0 7.294114112854004px 7.29px rgba(0, 0, 0, 0.25);
+  }
+  .blue-house-icon-isolated1 {
+    position: absolute;
+    top: 20.97px;
+    left: 32.82px;
+    width: 21.88px;
+    height: 18.24px;
+    object-fit: cover;
+  }
+  .vector-parent6 {
+    position: relative;
+    border-radius: 7.29px;
+    width: 124px;
+    height: 93px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .buy-or-rent {
+    position: relative;
+    font-size: 5.97px;
+    display: inline-block;
+    width: 172.18px;
+  }
+  .download-the-travelapp-now-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-9xs);
+  }
+  .apple-icon {
+    position: relative;
+    width: 16.2px;
+    height: 16.19px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .app-store {
+    position: relative;
+    font-size: 7.67px;
+    display: inline-block;
+    margin-top: -2.98px;
+  }
+  .apple-parent,
+  .download-on-the-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .apple-parent {
+    border-radius: 5.11px;
+    background-color: var(--color-black);
+    flex-direction: row;
+    align-items: center;
+    padding: 3.4094488620758057px 5.966535568237305px;
+    gap: 4.69px;
+  }
+  .google-play {
+    position: relative;
+    font-size: 7.67px;
+    display: inline-block;
+    margin-top: -2.56px;
+  }
+  .playstore-parent {
+    border-radius: 5.11px;
+    background-color: var(--color-black);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 2.557086706161499px 4.261811256408691px;
+    gap: 2.98px;
+    font-size: 5.11px;
+  }
+  .frame-parent5 {
+    width: 187.52px;
+    flex-direction: row;
+    justify-content: center;
+    gap: 24.29px;
+    text-align: left;
+    font-size: 4.26px;
+  }
+  .frame-parent3,
+  .frame-parent4,
+  .frame-parent5 {
+    display: flex;
+    align-items: center;
+  }
+  .frame-parent4 {
+    flex-direction: column;
+    justify-content: center;
+    gap: var(--gap-base);
+    font-size: 13.64px;
+  }
+  .frame-parent3 {
+    position: absolute;
+    top: 17px;
+    left: 21px;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 34px;
+  }
+  .contact-page-inner {
+    position: absolute;
+    top: 27px;
+    left: 716px;
+    border-radius: 14px;
+    background-color: #146859;
+    width: 433px;
+    height: 132px;
+    overflow: hidden;
+  }
+  .group-icon {
+    position: relative;
+    width: 35px;
+    height: 35px;
+  }
+  .follow-us-parent,
+  .group-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .group-container {
+    width: 257px;
+    flex-direction: row;
+    gap: var(--gap-xl);
+  }
+  .follow-us-parent {
+    position: absolute;
+    top: 59px;
+    left: 135px;
+    flex-direction: column;
+    gap: 12px;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-teal-100);
+  }
+  .contact-page {
+    position: absolute;
+    top: 3481px;
+    left: calc(50% - 640px);
+    background-color: var(--color-white);
+    width: 1280px;
+    height: 206px;
+    text-align: center;
+    font-size: 21.88px;
+    color: var(--color-white);
+  }
+  .vector-icon7 {
+    position: relative;
+    width: 17.16px;
+    height: 20.95px;
+  }
+  .lagosisland-nigeria {
+    position: relative;
+    line-height: 122%;
+    font-weight: 600;
+    display: inline-block;
+    width: 116.5px;
+    flex-shrink: 0;
+  }
+  .vector-parent7 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 3.99px;
+  }
+  .n {
+    position: absolute;
+    top: 0;
+    left: 1px;
+  }
+  .group-inner,
+  .group-item {
+    position: absolute;
+    top: 9.48px;
+    left: -0.5px;
+    border-top: 1px solid var(--color-gray-100);
+    box-sizing: border-box;
+    width: 12.97px;
+    height: 1px;
+  }
+  .group-inner {
+    top: 11.47px;
+  }
+  .div,
+  .n-parent {
+    position: relative;
+  }
+  .n-parent {
+    width: 11.97px;
+    height: 21px;
+  }
+  .div {
+    font-size: var(--font-size-xs);
+  }
+  .group-parent2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-11xs);
+  }
+  .anually {
+    position: relative;
+    font-size: var(--font-size-3xs);
+    font-weight: 500;
+    color: var(--color-darkslategray);
+    margin-top: -6.98px;
+  }
+  .frame-parent7,
+  .frame-parent8 {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .frame-parent8 {
+    width: 67.61px;
+    flex-direction: column;
+    align-items: center;
+    font-size: 13.97px;
+  }
+  .frame-parent7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 249.17px;
+    height: 33.93px;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: var(--gap-24xl-9);
+  }
+
+  @media screen and (max-width: 767px) {
+    .frame-parent3 {
+      gap: 8px;
+    }
+    .contact-page {
+        background-color: var(--color-white);
+        text-align: center;
+        font-size: 21.88px;
+        color: var(--color-white);
+        padding: 20px;
+      }
+      
+      .contact-page-inner {
+        border-radius: 14px;
+        background-color: #146859;
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+        padding: 20px;
+        position: fixed;
+        bottom: 0; /* Stick it to the bottom */
+      }
+      
+      .frame-parent3 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 16px;
+        text-align: center;
+        font-size: 16px;
+      }
+      
+      .vector-parent6 {
+        width: 100%;
+        text-align: center;
+      }
+      
+      .frame-parent4,
+      .frame-parent5 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 16px;
+      }
+      
+      .frame-parent5 {
+        width: 100%;
+      }
+  }

@@ -1,0 +1,1878 @@
+.frame-child-dialog {
+  position: relative;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+}
+
+.august-2014-dialog,
+.josephine-dialog {
+  position: relative;
+  line-height: 93.5%;
+  font-weight: 500;
+}
+
+.august-2014-dialog {
+  font-size: 8px;
+  line-height: 122.5%;
+  font-weight: 300;
+}
+
+.ellipse-parent-dialog,
+.josephine-parent-dialog {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+}
+
+.ellipse-parent-dialog {
+  flex-direction: row;
+  align-items: center;
+}
+
+.i-love-this-dialog {
+  position: relative;
+  line-height: 122.5%;
+  font-weight: 300;
+  display: inline-block;
+  width: 244px;
+}
+
+.frame-group-dialog,
+.frame-parent-dialog {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+
+.frame-parent-dialog {
+  position: absolute;
+  top: 3062px;
+  left: -91px;
+  width: 1087px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 37px;
+  font-size: 12px;
+}
+
+.frame-child5-dialog {
+  position: relative;
+  border-radius: 50%;
+  width: 87px;
+  height: 87px;
+  object-fit: cover;
+}
+
+.mr-james-abodunrin-dialog {
+  position: relative;
+  line-height: 93.5%;
+  font-weight: 500;
+  display: inline-block;
+  width: 85px;
+}
+
+.landlord-dialog {
+  position: relative;
+  font-size: 8px;
+  line-height: 122%;
+  color: #171313;
+}
+
+.mr-james-abodunrin-parent-dialog {
+  width: 85px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 4px;
+}
+
+.star-child-dialog {
+  position: relative;
+  width: 11.67px;
+  height: 11.34px;
+}
+
+.ellipse-parent6-dialog,
+.star-dialog,
+.star-parent-dialog {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.star-dialog {
+  flex-direction: column;
+  padding: 2.4248790740966797px 1.8186593055725098px;
+}
+
+.ellipse-parent6-dialog,
+.star-parent-dialog {
+  flex-direction: row;
+  gap: 4px;
+}
+
+.ellipse-parent6-dialog {
+  position: absolute;
+  top: 51px;
+  left: 24px;
+  flex-direction: column;
+  justify-content: center;
+  gap: 16px;
+  font-size: 12.68px;
+  color: #146859;
+}
+
+
+.reviews-dialog {
+  position: relative;
+  font-size: 8px;
+  line-height: 93.5%;
+}
+.group-dialog,
+.parent-dialog {
+  position: absolute;
+  top: 55px;
+  left: 230px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 4px;
+}
+.group-dialog {
+  top: 201px;
+}
+.div2-dialog {
+  position: relative;
+  line-height: 93.5%;
+  font-weight: 500;
+  display: inline-block;
+  width: 37px;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.frame-child6-dialog {
+  position: absolute;
+  margin: 0 !important;
+  height: 37.12%;
+  width: 31.08%;
+  top: 30%;
+  right: 1.35%;
+  bottom: 32.88%;
+  left: 67.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.container-dialog {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 10px;
+}
+.rating-dialog {
+  position: relative;
+  font-size: 8px;
+  line-height: 93.5%;
+  display: inline-block;
+  width: 29px;
+}
+.frame-parent8-dialog {
+  position: absolute;
+  top: 128px;
+  left: 230px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 4px;
+}
+.frame-parent7-dialog {
+  position: absolute;
+  top: 32px;
+  left: 84px;
+  border-radius: 16px;
+  background-color: #fff;
+  box-shadow: 0 13px 12px 4px rgba(0, 0, 0, 0.04);
+  width: 340px;
+  height: 287px;
+  color: #171313;
+}
+.frame-child7-dialog,
+.line-div-dialog {
+  position: absolute;
+  top: 144.5px;
+  left: 256.5px;
+  border-top: 1px solid #e9e9e9;
+  box-sizing: border-box;
+  width: 168px;
+  height: 1px;
+}
+.frame-child7-dialog {
+  top: 213.5px;
+  left: 254.5px;
+  width: 170px;
+}
+.mr-abodunrin-is-dialog,
+.to-protect-your-dialog {
+  position: absolute;
+  line-height: 160%;
+  display: inline-block;
+}
+.to-protect-your-dialog {
+  top: 706px;
+  left: 148px;
+  font-size: 8px;
+  text-align: center;
+  width: 210px;
+}
+.mr-abodunrin-is-dialog {
+  top: 351px;
+  left: 33px;
+  font-size: 16px;
+  width: 447px;
+  height: 265px;
+}
+.message-me-dialog {
+  position: relative;
+  font-weight: 500;
+}
+.message-me-wrapper-dialog {
+  position: absolute;
+  top: 648px;
+  left: 126px;
+  border-radius: 12px;
+  background-color: #146859;
+  width: 254px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 16px 8px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 12px;
+  color: #fff;
+}
+.frame-parent6-dialog {
+  position: absolute;
+  top: 1216px;
+  left: 105px;
+  border-radius: 24px;
+  background-color: #f2eeee;
+  width: 528px;
+  height: 748px;
+  font-size: 32px;
+}
+
+.overlay-dialog {
+  position: absolute;
+  top: 3400px;
+  left: -91px;
+  background: linear-gradient(180deg, #fff 59.9%, rgba(255, 255, 255, 0));
+  width: 1101px;
+  height: 202px;
+  overflow: hidden;
+}
+.view-more-wrapper-dialog {
+  position: absolute;
+  top: 3310px;
+  left: 367px;
+  border-radius: 12px;
+  background-color: #146859;
+  width: 164px;
+  height: 34px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 16px 8px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 12px;
+  color: #fff;
+}
+.frame-child8-dialog {
+  position: relative;
+  width: 10px;
+  height: 9.68px;
+}
+.vector-parent-dialog {
+  position: absolute;
+  top: 2858px;
+  left: -91px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 3px;
+  color: #171313;
+}
+.cleanliness-dialog,
+.eco-friendly-environment1-dialog {
+  position: absolute;
+  top: 2889px;
+  left: -89px;
+  line-height: 93.5%;
+}
+.eco-friendly-environment1-dialog {
+  top: 2920px;
+  left: -88px;
+}
+.car-park-facility-dialog,
+.security-dialog,
+.spaces-dialog,
+.standard-dialog {
+  position: absolute;
+  top: 2951px;
+  left: -88px;
+  line-height: 93.5%;
+}
+.security-dialog,
+.spaces-dialog,
+.standard-dialog {
+  top: 2889px;
+  left: 244px;
+}
+.security-dialog,
+.spaces-dialog {
+  top: 2920px;
+}
+.security-dialog {
+  top: 2951px;
+}
+.s-parent-dialog,
+.select-a-date-dialog {
+  position: absolute;
+  left: 32px;
+}
+.select-a-date-dialog {
+  top: 26px;
+  line-height: 93.5%;
+  font-weight: 500;
+}
+.s-parent-dialog {
+  top: 123px;
+  width: 357px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 46px;
+  font-size: 16px;
+}
+.subtract-icon-dialog {
+  position: relative;
+  width: 15.94px;
+  height: 15.94px;
+}
+.wednesday-oct-23-parent-dialog {
+  position: absolute;
+  top: 53px;
+  left: 32px;
+  width: 352px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 178px;
+  font-size: 16px;
+}
+.vector-icon-dialog {
+  position: relative;
+  width: 13.41px;
+  height: 8.12px;
+}
+.october-2023-parent-dialog {
+  position: absolute;
+  top: 96px;
+  left: 32px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.div4-dialog {
+  position: absolute;
+  top: -1px;
+  left: 6px;
+  line-height: 160%;
+}
+.div3-dialog {
+  position: relative;
+  border-radius: 100px;
+  width: 16px;
+  height: 16px;
+}
+.parent1-dialog {
+  position: absolute;
+  top: 146px;
+  left: 29px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 42px;
+}
+.div17-dialog,
+.div19-dialog {
+  position: absolute;
+  top: 170px;
+}
+.div17-dialog {
+  left: 29px;
+  border-radius: 100px;
+  width: 16px;
+  height: 16px;
+}
+.div19-dialog {
+  left: 87px;
+}
+.div19-dialog,
+.div21-dialog,
+.div23-dialog {
+  border-radius: 100px;
+  width: 16px;
+  height: 16px;
+}
+.div21-dialog {
+  position: absolute;
+  top: 170px;
+  left: 145px;
+}
+.div23-dialog {
+  left: 203px;
+}
+.div23-dialog,
+.div25-dialog,
+.div27-dialog {
+  position: absolute;
+  top: 170px;
+}
+.div25-dialog {
+  left: 261px;
+  border-radius: 100px;
+  width: 16px;
+  height: 16px;
+}
+.div27-dialog {
+  left: 319px;
+}
+.div27-dialog,
+.div29-dialog,
+.div31-dialog,
+.div33-dialog {
+  border-radius: 100px;
+  width: 16px;
+  height: 16px;
+}
+.div29-dialog {
+  position: absolute;
+  top: 170px;
+  left: 377px;
+}
+.div31-dialog,
+.div33-dialog {
+  top: 194px;
+}
+.div31-dialog {
+  position: absolute;
+  left: 29px;
+}
+.div33-dialog {
+  left: 87px;
+}
+.div33-dialog,
+.div35-dialog,
+.div37-dialog {
+  position: absolute;
+}
+.div35-dialog {
+  top: 194px;
+  left: 145px;
+  border-radius: 100px;
+  width: 16px;
+  height: 16px;
+}
+.div37-dialog {
+  left: 203px;
+}
+.div37-dialog,
+.div39-dialog,
+.div41-dialog {
+  top: 194px;
+  border-radius: 100px;
+  width: 16px;
+  height: 16px;
+}
+.div39-dialog {
+  position: absolute;
+  left: 261px;
+}
+.div41-dialog {
+  left: 319px;
+}
+.div41-dialog,
+.div43-dialog,
+.div46-dialog {
+  position: absolute;
+}
+.div43-dialog {
+  top: 194px;
+  left: 377px;
+  border-radius: 100px;
+  width: 16px;
+  height: 16px;
+}
+.div46-dialog {
+  top: -1px;
+  left: 5px;
+  line-height: 160%;
+}
+.div45-dialog {
+  top: 218px;
+  left: 29px;
+  border-radius: 100px;
+  width: 16px;
+  height: 16px;
+}
+.div45-dialog,
+.div47-dialog,
+.div50-dialog {
+  position: absolute;
+}
+.div47-dialog {
+  top: 242px;
+  left: 29px;
+  border-radius: 100px;
+  width: 16px;
+  height: 16px;
+}
+.div50-dialog {
+  top: -2px;
+  left: 5px;
+  line-height: 160%;
+}
+.div49-dialog {
+  top: 218px;
+  left: 87px;
+  border-radius: 100px;
+  width: 16px;
+  height: 16px;
+}
+.div49-dialog,
+.div51-dialog,
+.div54-dialog {
+  position: absolute;
+}
+.div51-dialog {
+  top: 242px;
+  left: 87px;
+  border-radius: 100px;
+  width: 16px;
+  height: 16px;
+}
+.div54-dialog {
+  top: -1px;
+  left: 4px;
+  line-height: 160%;
+}
+.div53-dialog,
+.div55-dialog {
+  position: absolute;
+  top: 218px;
+  left: 145px;
+  border-radius: 100px;
+  width: 16px;
+  height: 16px;
+}
+.div55-dialog {
+  top: 242px;
+}
+.div58-dialog {
+  top: 0;
+  left: 2px;
+  line-height: 160%;
+}
+.div57-dialog,
+.div58-dialog,
+.div60-dialog {
+  position: absolute;
+}
+.div57-dialog {
+  top: 218px;
+  left: 203px;
+  border-radius: 100px;
+  width: 16px;
+  height: 16px;
+}
+.div60-dialog {
+  top: 0;
+  left: 3px;
+  line-height: 160%;
+}
+.div59-dialog,
+.div61-dialog,
+.div63-dialog {
+  position: absolute;
+  top: 218px;
+  left: 261px;
+  border-radius: 100px;
+  width: 21px;
+  height: 16px;
+}
+.div61-dialog,
+.div63-dialog {
+  left: 319px;
+}
+.div63-dialog {
+  left: 377px;
+}
+.select-a-date-parent-dialog {
+  position: absolute;
+  top: 2484px;
+  left: -91px;
+  border-radius: 24px;
+  background-color: #fff;
+  box-shadow: 0 0 8px 10px rgba(0, 0, 0, 0.16);
+  width: 416px;
+  height: 310px;
+  font-size: 12px;
+}
+.group-child-dialog {
+  position: absolute;
+  top: -0.78px;
+  left: -0.78px;
+  width: 77.94px;
+  height: 56.12px;
+}
+
+
+.ou-dialog {
+  color: #ecdb84;
+}
+.bgr-dialog,
+.house-dialog {
+  position: absolute;
+  top: 26.5px;
+  left: 7.79px;
+}
+.bgr-dialog {
+  top: 10.91px;
+  left: 15.59px;
+  font-size: 21.82px;
+  font-weight: 900;
+  text-shadow: 0 6.235294818878174px 6.24px rgba(0, 0, 0, 0.25);
+}
+.blue-house-icon-isolated-dialog {
+  position: absolute;
+  top: 6.24px;
+  left: 14.03px;
+  width: 18.71px;
+  height: 15.59px;
+  object-fit: cover;
+}
+.vector-group-dialog,
+.vector-icon1-dialog {
+  position: relative;
+  width: 76.38px;
+  height: 54.56px;
+}
+.vector-icon1-dialog {
+  width: 14.96px;
+  height: 8.61px;
+}
+.country-dialog {
+  position: relative;
+  font-weight: 600;
+}
+.frame-parent10-dialog,
+.vector-container-dialog {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10.5px;
+}
+.frame-parent10-dialog {
+  position: absolute;
+  top: 16px;
+  left: 61px;
+  justify-content: center;
+  gap: 140px;
+}
+.frame-wrapper-dialog {
+  position: relative;
+  border-radius: 24px;
+  background-color: #fff;
+  box-shadow: 0 0 15.75px 3.75px rgba(190, 189, 189, 0.4);
+  border: 0.8px solid #bebdbd;
+  box-sizing: border-box;
+  width: 397px;
+  height: 51px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.a-landlord-dialog {
+  position: relative;
+  font-weight: 500;
+  cursor: pointer;
+}
+.jamworld-icon-dialog {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-child9-dialog {
+  position: relative;
+  border-top: 2px solid #bebdbd;
+  box-sizing: border-box;
+  width: 27px;
+  height: 2px;
+}
+.line-parent-dialog {
+  position: absolute;
+  top: 16.25px;
+  left: 20px;
+  width: 26px;
+  height: 17.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 1.5px 0;
+  box-sizing: border-box;
+  gap: 5px;
+}
+.user-circle-icon-dialog {
+  position: absolute;
+  top: 5px;
+  left: 52px;
+  width: 40px;
+  height: 40px;
+}
+.frame-parent11-dialog {
+  position: relative;
+  border-radius: 24px;
+  background-color: #fff;
+  box-shadow: 0 0 15.75px 3.75px rgba(190, 189, 189, 0.4);
+  border: 0.8px solid #bebdbd;
+  box-sizing: border-box;
+  width: 112px;
+  height: 51px;
+}
+.a-landlord-parent-dialog,
+.frame-parent9-dialog,
+.group-parent-dialog {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 20px;
+  font-size: 16px;
+}
+.frame-parent9-dialog,
+.group-parent-dialog {
+  align-items: flex-start;
+  gap: 74px;
+  font-size: 12px;
+  color: #171313;
+}
+.group-parent-dialog {
+  position: absolute;
+  width: 85.03%;
+  top: 44px;
+  right: 7.47%;
+  left: 7.5%;
+  height: 58px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 270px;
+  text-align: center;
+  font-size: 18.71px;
+  color: #fff;
+}
+
+.frame-child12-dialog,
+.new-redesign-child-dialog {
+  position: absolute;
+  top: 125px;
+  left: 0;
+  width: 1280px;
+  height: 1.97px;
+}
+.frame-child12-dialog {
+  top: 12.76px;
+  left: 15.5px;
+  width: 91.18px;
+  height: 65.65px;
+}
+.bgr1-dialog,
+.house1-dialog {
+  position: absolute;
+  top: 44.68px;
+  left: 25.53px;
+}
+.bgr1-dialog {
+  top: 26.44px;
+  left: 34.65px;
+  font-size: 25.53px;
+  font-weight: 900;
+  text-shadow: 0 7.294114112854004px 7.29px rgba(0, 0, 0, 0.25);
+}
+.blue-house-icon-isolated1-dialog {
+  position: absolute;
+  top: 20.97px;
+  left: 32.82px;
+  width: 21.88px;
+  height: 18.24px;
+  object-fit: cover;
+}
+.vector-parent1-dialog {
+  position: relative;
+  border-radius: 7.29px;
+  width: 124px;
+  height: 93px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.buy-or-rent-dialog {
+  position: relative;
+  font-size: 5.97px;
+  display: inline-block;
+  width: 172.18px;
+}
+.download-the-travelapp-now-parent-dialog {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.apple-icon-dialog {
+  position: relative;
+  width: 16.2px;
+  height: 16.19px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.app-store-dialog {
+  position: relative;
+  font-size: 7.67px;
+  display: inline-block;
+  margin-top: -2.98px;
+}
+.apple-parent-dialog,
+.download-on-the-parent-dialog {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.apple-parent-dialog {
+  border-radius: 5.11px;
+  background-color: #000;
+  flex-direction: row;
+  align-items: center;
+  padding: 3.4094488620758057px 5.966535568237305px;
+  gap: 4.69px;
+}
+.google-play-dialog {
+  position: relative;
+  font-size: 7.67px;
+  display: inline-block;
+  margin-top: -2.56px;
+}
+.playstore-parent-dialog {
+  border-radius: 5.11px;
+  background-color: #000;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 2.557086706161499px 4.261811256408691px;
+  gap: 2.98px;
+  font-size: 5.11px;
+}
+.frame-parent13-dialog,
+.frame-parent14-dialog {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent14-dialog {
+  width: 187.52px;
+  flex-direction: row;
+  gap: 24.29px;
+  text-align: left;
+  font-size: 4.26px;
+}
+.frame-parent13-dialog {
+  flex-direction: column;
+  gap: 16px;
+  font-size: 13.64px;
+}
+.frame-parent12-dialog {
+  position: absolute;
+  top: 17px;
+  left: 21px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 34px;
+}
+.contact-page-inner-dialog {
+  position: absolute;
+  top: 27px;
+  left: 716px;
+  border-radius: 14px;
+  background-color: #146859;
+  width: 433px;
+  height: 132px;
+  overflow: hidden;
+}
+.group-icon-dialog {
+  position: relative;
+  width: 35px;
+  height: 35px;
+}
+.follow-us-parent-dialog,
+.group-container-dialog {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.group-container-dialog {
+  width: 257px;
+  flex-direction: row;
+  gap: 20px;
+}
+.follow-us-parent-dialog {
+  position: absolute;
+  top: 59px;
+  left: 135px;
+  flex-direction: column;
+  gap: 12px;
+  text-align: left;
+  font-size: 14px;
+  color: #146758;
+}
+.contact-page-dialog {
+  position: absolute;
+  top: 3481px;
+  left: calc(50% - 640px);
+  background-color: #fff;
+  width: 1280px;
+  height: 206px;
+  text-align: center;
+  font-size: 21.88px;
+  color: #fff;
+}
+.recently-sold-and-dialog {
+  position: relative;
+  line-height: 110%;
+  font-weight: 500;
+  display: inline-block;
+  width: 291px;
+  height: 34px;
+  flex-shrink: 0;
+}
+.recently-sold-and-rent-wrapper-dialog {
+  position: absolute;
+  top: 2602px;
+  left: -2192px;
+  background-color: #146758;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+}
+.frame-icon-dialog {
+  position: relative;
+  width: 287px;
+  height: 272px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-parent15-dialog,
+.frame-parent16-dialog {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-parent16-dialog {
+  width: 1016px;
+  overflow-x: auto;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 27px;
+}
+.frame-parent15-dialog {
+  position: absolute;
+  top: 2644px;
+  left: -2192px;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+}
+.listed-few-days-dialog {
+  position: relative;
+  line-height: 110%;
+  font-weight: 500;
+  display: inline-block;
+  width: 265px;
+  height: 34px;
+  flex-shrink: 0;
+}
+.listed-few-days-ago-wrapper-dialog {
+  background-color: #146758;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frame-child38-dialog {
+  position: relative;
+  background-color: #fff;
+  width: 287px;
+  height: 272px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-parent18-dialog,
+.frame-parent19-dialog {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 20px;
+}
+.frame-parent18-dialog {
+  position: absolute;
+  top: 1936px;
+  left: -2192px;
+  box-shadow: 0 20px 24px rgba(0, 0, 0, 0.12);
+  height: 620px;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+}
+.new-redesign-item-dialog {
+  position: absolute;
+  top: -621px;
+  left: 1365px;
+  width: 287px;
+  height: 272px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.hero-section-child-dialog {
+  position: absolute;
+  top: 770.87px;
+  left: -2.62px;
+  width: 1258.42px;
+  height: 153.26px;
+}
+.hero-section-item-dialog {
+  position: absolute;
+  top: 79px;
+  left: 740px;
+  border-radius: 200px;
+  width: 239px;
+  height: 100px;
+}
+.looking-dialog {
+  font-weight: 500;
+}
+.place-dialog {
+  color: #fff;
+}
+.for-a-place-to-rentsell-or-bu-dialog {
+  font-weight: 800;
+}
+.looking-for-a-container-dialog {
+  position: absolute;
+  top: 74px;
+  left: calc(50% - 322px);
+  display: inline-block;
+  width: 646px;
+}
+.ellipse-div-dialog,
+.hero-section-inner-dialog {
+  position: absolute;
+  top: 124px;
+  left: 387px;
+  border-radius: 50%;
+  background-color: #cac8c8;
+  width: 11px;
+  height: 11px;
+}
+.ellipse-div-dialog {
+  left: 427px;
+}
+.browse-dialog {
+  position: absolute;
+  top: calc(50% - 24px);
+  left: calc(50% - 60px);
+}
+.browse-wrapper-dialog {
+  position: absolute;
+  top: 327px;
+  left: calc(50% - 124px);
+  border-radius: 8px;
+  background-color: #146758;
+  width: 228px;
+  height: 76px;
+  overflow: hidden;
+  font-size: 32px;
+  color: #fff;
+}
+.hero-section-child1-dialog,
+.hero-section-child2-dialog {
+  position: absolute;
+  top: 130px;
+  left: 389px;
+  border-radius: 200px;
+  width: 8px;
+  height: 5px;
+}
+.hero-section-child2-dialog {
+  left: 429px;
+}
+.hero-section-child3-dialog,
+.hero-section-child4-dialog {
+  position: absolute;
+  top: 132px;
+  left: 391px;
+  border-radius: 50%;
+  background-color: #fff;
+  width: 3px;
+  height: 3px;
+}
+.hero-section-child4-dialog {
+  left: 431px;
+}
+.buy-sell-or-dialog {
+  position: absolute;
+  top: 249px;
+  left: calc(50% - 215px);
+  font-size: 24px;
+  color: #000;
+}
+.hero-section-dialog,
+.hero-section1-dialog {
+  position: absolute;
+  left: 0;
+  width: 1280px;
+  height: 806px;
+}
+.hero-section1-dialog {
+  top: 0;
+  background-color: rgba(255, 255, 255, 0.2);
+  overflow: hidden;
+}
+.hero-section-dialog {
+  top: 56.5px;
+  font-size: 62px;
+  color: #171313;
+}
+.frame-child43-dialog {
+  position: absolute;
+  top: 7.5px;
+  left: 9px;
+  width: 49px;
+  height: 35px;
+}
+.bgr2-dialog,
+.house2-dialog {
+  position: absolute;
+  top: 24.5px;
+  left: 14px;
+}
+.bgr2-dialog {
+  top: 14.5px;
+  left: 19px;
+  font-size: 14px;
+  font-weight: 900;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.blue-house-icon-isolated2-dialog {
+  position: absolute;
+  top: 11.5px;
+  left: 18px;
+  width: 12px;
+  height: 10px;
+  object-fit: cover;
+}
+.vector-parent2-dialog {
+  position: absolute;
+  top: 0;
+  left: 129.5px;
+  border-radius: 4px;
+  width: 68px;
+  height: 51px;
+  overflow: hidden;
+  font-size: 12px;
+  color: #fff;
+}
+.buy-dialog,
+.locations-dialog,
+.pricing-dialog,
+.rent-dialog,
+.review-dialog,
+.sign-in-dialog {
+  position: absolute;
+  top: 15px;
+  left: 336.5px;
+  font-weight: 500;
+}
+.buy-dialog,
+.locations-dialog,
+.pricing-dialog,
+.review-dialog,
+.sign-in-dialog {
+  left: 428.5px;
+}
+.locations-dialog,
+.pricing-dialog,
+.review-dialog,
+.sign-in-dialog {
+  left: 515.5px;
+}
+.pricing-dialog,
+.review-dialog,
+.sign-in-dialog {
+  left: 643.5px;
+}
+.pricing-dialog,
+.sign-in-dialog {
+  left: 753.5px;
+}
+.sign-in-dialog {
+  top: 10px;
+  left: 42px;
+}
+.sign-in-wrapper-dialog {
+  position: relative;
+  border-radius: 8px;
+  background-color: #146758;
+  width: 120px;
+  height: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+  color: #fff;
+}
+.sign-up-parent-dialog {
+  position: absolute;
+  top: 5.5px;
+  left: 941.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 36px;
+  color: #146758;
+}
+.rectangle-div-dialog {
+  position: absolute;
+  top: 34.5px;
+  left: 754px;
+  border-radius: 42px;
+  background-color: #146758;
+  width: 20px;
+  height: 1px;
+}
+.hero-section-parent-dialog {
+  position: absolute;
+  top: -355px;
+  left: calc(50% - 5837px);
+  background-color: #fff;
+  width: 1280px;
+  height: 862.5px;
+  text-align: center;
+  font-size: 14px;
+  color: #000;
+}
+.group-child1-dialog,
+.group-inner-dialog,
+.group-item-dialog {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  width: 567.68px;
+  height: 472px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.group-child1-dialog,
+.group-inner-dialog {
+  top: 241.78px;
+  left: 577.87px;
+  width: 248.2px;
+  height: 230.22px;
+}
+.group-child1-dialog {
+  top: 0;
+}
+.frame-child44-dialog {
+  position: absolute;
+  top: 137px;
+  left: 135px;
+  border-radius: 50%;
+  background-color: #fff;
+  box-shadow: 0 12px 6px rgba(0, 0, 0, 0.12);
+  width: 53px;
+  height: 53px;
+}
+.div65-dialog,
+.div66-dialog,
+.more-dialog,
+.pictures-dialog {
+  position: absolute;
+  top: 148.22px;
+  left: calc(50% + 24.1px);
+  font-weight: 600;
+}
+.div66-dialog,
+.more-dialog,
+.pictures-dialog {
+  left: calc(50% + 33.1px);
+}
+
+
+
+
+
+
+
+
+
+
+.more-dialog,
+.pictures-dialog {
+  top: 160.22px;
+  left: calc(50% + 29.1px);
+  font-size: 8px;
+}
+.pictures-dialog {
+  top: 167.22px;
+  left: calc(50% + 22.1px);
+}
+.ellipse-parent7-dialog,
+.group-child2-dialog {
+  position: absolute;
+  left: 838.8px;
+  border-radius: 8px;
+  width: 248.2px;
+  height: 230.22px;
+  overflow: hidden;
+}
+.ellipse-parent7-dialog {
+  top: 241.78px;
+  background-image: url(/public/frame-178@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.group-child2-dialog {
+  top: 0;
+  object-fit: cover;
+}
+.group-div-dialog {
+  position: absolute;
+  top: 214px;
+  left: 96px;
+  box-shadow: 0 13px 12px 4px rgba(0, 0, 0, 0.04);
+  width: 1087px;
+  height: 472px;
+  font-size: 12px;
+  color: #171313;
+}
+.decentralized-home-dialog,
+.decentralized-home-lagos-dialog {
+  position: absolute;
+  font-weight: 600;
+  color: #171313;
+}
+.decentralized-home-dialog {
+  top: 152px;
+  left: calc(50% - 164px);
+  font-size: 32px;
+  line-height: 122%;
+}
+.decentralized-home-lagos-dialog {
+  top: 706px;
+  left: calc(50% - 539px);
+  font-size: 24px;
+}
+.vector-icon3-dialog {
+  position: relative;
+  width: 17.16px;
+  height: 20.95px;
+}
+.lagosisland-nigeria-dialog {
+  position: relative;
+  line-height: 122%;
+  font-weight: 500;
+}
+.vector-parent3-dialog {
+  position: absolute;
+  top: 750px;
+  left: 101px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3.99px;
+  color: #171313;
+}
+.about-this-place-wrapper-dialog,
+.frame-wrapper1-dialog {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.about-this-place-wrapper-dialog {
+  flex-direction: row;
+  padding: 9px 4px;
+}
+.frame-wrapper1-dialog {
+  flex-direction: column;
+}
+.looking-for-a-dialog {
+  position: relative;
+  font-size: 16px;
+  line-height: 160%;
+  color: #454545;
+  display: inline-block;
+  width: 555px;
+  height: 335px;
+  flex-shrink: 0;
+}
+.frame-parent22-dialog {
+  position: absolute;
+  top: 834.95px;
+  left: 101px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+  font-size: 24px;
+  color: #171313;
+}
+.new-redesign-child1-dialog,
+.new-redesign-child2-dialog,
+.new-redesign-child3-dialog,
+.new-redesign-child4-dialog,
+.new-redesign-inner-dialog {
+  position: absolute;
+  top: 802.5px;
+  left: 95.5px;
+  border-top: 1px solid #e9e9e9;
+  box-sizing: border-box;
+  width: 703px;
+  height: 1px;
+}
+.new-redesign-child1-dialog,
+.new-redesign-child2-dialog,
+.new-redesign-child3-dialog,
+.new-redesign-child4-dialog {
+  top: 1215.5px;
+  width: 1185px;
+}
+.new-redesign-child2-dialog,
+.new-redesign-child3-dialog,
+.new-redesign-child4-dialog {
+  top: 2565.5px;
+  left: -91.5px;
+  width: 417px;
+}
+.new-redesign-child3-dialog,
+.new-redesign-child4-dialog {
+  top: 2825.5px;
+  width: 1089px;
+}
+.new-redesign-child4-dialog {
+  top: 3411.5px;
+}
+.annual-dialog,
+.group-child3-dialog {
+  position: absolute;
+  top: 0;
+}
+.group-child3-dialog {
+  left: 0;
+  border-radius: 24px;
+  background-color: #fff;
+  box-shadow: 0 13px 12px 4px rgba(0, 0, 0, 0.04);
+  border: 0.2px solid #146859;
+  box-sizing: border-box;
+  width: 398px;
+  height: 402px;
+}
+.annual-dialog {
+  left: 67px;
+  font-weight: 600;
+}
+.payment-breakdown-dialog {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  font-size: 24px;
+  font-weight: 500;
+  color: #171313;
+}
+.annual-parent-dialog {
+  position: absolute;
+  top: 20px;
+  left: 74px;
+  width: 251px;
+  height: 72px;
+  color: #146859;
+}
+.make-payment-wrapper-dialog {
+  position: absolute;
+  top: 308px;
+  left: 70px;
+  border-radius: 12px;
+  background-color: #146859;
+  width: 254px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 16px 8px;
+  box-sizing: border-box;
+  font-size: 12px;
+  color: #fff;
+}
+.house-rent-dialog {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.house-rent-wrapper-dialog {
+  position: relative;
+  width: 92px;
+  height: 24px;
+}
+.k-naira-dialog {
+  position: relative;
+  font-weight: 600;
+  color: #146859;
+}
+.group-parent1-dialog {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 83px;
+}
+.security-fee-wrapper-dialog {
+  position: relative;
+  width: 99px;
+  height: 24px;
+}
+.group-parent2-dialog {
+  width: 253px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 77px;
+}
+.electricity-bill-wrapper-dialog {
+  position: relative;
+  width: 108px;
+  height: 24px;
+}
+.group-parent3-dialog {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 68px;
+}
+.damages-fee-wrapper-dialog,
+.total-wrapper-dialog {
+  position: relative;
+  width: 112px;
+  height: 24px;
+}
+.total-wrapper-dialog {
+  width: 46px;
+}
+.group-parent5-dialog {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 8px;
+}
+.frame-parent23-dialog {
+  position: absolute;
+  top: 108px;
+  left: 73px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 16px;
+}
+.vector-icon4-dialog {
+  position: relative;
+  width: 8px;
+  height: 10px;
+}
+.note-dialog {
+  font-weight: 600;
+}
+.note-5-will-container-dialog {
+  position: relative;
+}
+.vector-parent4-dialog {
+  position: absolute;
+  top: 366px;
+  left: 102px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 4px;
+  font-size: 8px;
+}
+.rectangle-parent-dialog {
+  position: absolute;
+  top: 706px;
+  left: 787px;
+  width: 398px;
+  height: 402px;
+  text-align: center;
+  font-size: 32px;
+}
+.vector-icon5-dialog {
+  position: relative;
+  width: 18px;
+  height: 15.75px;
+}
+.spacious-bedroom-dialog {
+  position: relative;
+  line-height: 160%;
+}
+.vector-icon6-dialog {
+  position: relative;
+  width: 18px;
+  height: 18px;
+}
+.frame-parent26-dialog {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 62px;
+}
+.group-icon1-dialog,
+.vector-icon7-dialog {
+  position: relative;
+  width: 18px;
+  height: 13.09px;
+}
+.group-icon1-dialog {
+  width: 24px;
+  height: 24px;
+}
+.frame-parent27-dialog,
+.group-group-dialog {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.frame-parent27-dialog {
+  align-items: flex-start;
+  gap: 47px;
+}
+.vector-icon8-dialog {
+  position: relative;
+  width: 18px;
+  height: 19.06px;
+}
+.frame-parent28-dialog {
+  height: 22px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 89px;
+}
+.vector-icon10-dialog {
+  position: relative;
+  width: 18px;
+  height: 18.8px;
+}
+.frame-wrapper2-dialog {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-parent25-dialog,
+.what-this-place-offers-parent-dialog {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 16px;
+  font-size: 16px;
+  color: #454545;
+}
+.what-this-place-offers-parent-dialog {
+  position: absolute;
+  top: 2030px;
+  left: 96px;
+  gap: 12px;
+  font-size: 24px;
+  color: #171313;
+}
+.new-redesign-child5-dialog,
+.new-redesign-child6-dialog,
+.new-redesign-child7-dialog,
+.new-redesign-child8-dialog {
+  position: absolute;
+  top: 2894px;
+  left: 30px;
+  border-radius: 24px;
+  background-color: #d9d9d9;
+  width: 92px;
+  height: 5px;
+}
+.new-redesign-child6-dialog,
+.new-redesign-child7-dialog,
+.new-redesign-child8-dialog {
+  top: 2956px;
+  left: 54px;
+}
+.new-redesign-child7-dialog,
+.new-redesign-child8-dialog {
+  top: 2925px;
+  left: 125px;
+}
+.new-redesign-child8-dialog {
+  top: 2894px;
+  left: 335px;
+}
+.new-redesign-child10-dialog,
+.new-redesign-child11-dialog,
+.new-redesign-child12-dialog,
+.new-redesign-child9-dialog {
+  position: absolute;
+  top: 2925px;
+  left: 320px;
+  border-radius: 24px;
+  background-color: #d9d9d9;
+  width: 92px;
+  height: 5px;
+}
+.new-redesign-child10-dialog,
+.new-redesign-child11-dialog,
+.new-redesign-child12-dialog {
+  top: 2956px;
+  left: 325px;
+}
+.new-redesign-child11-dialog,
+.new-redesign-child12-dialog {
+  top: 2894px;
+  left: 30px;
+  background-color: #454545;
+  width: 86px;
+}
+.new-redesign-child12-dialog {
+  top: 2956px;
+  left: 54px;
+  width: 92px;
+}
+.new-redesign-child13-dialog,
+.new-redesign-child14-dialog,
+.new-redesign-child15-dialog,
+.new-redesign-child16-dialog {
+  position: absolute;
+  top: 2925px;
+  left: 125px;
+  border-radius: 24px;
+  background-color: #454545;
+  width: 66px;
+  height: 5px;
+}
+.new-redesign-child14-dialog,
+.new-redesign-child15-dialog,
+.new-redesign-child16-dialog {
+  top: 2894px;
+  left: 335px;
+  width: 85px;
+}
+.new-redesign-child15-dialog,
+.new-redesign-child16-dialog {
+  top: 2925px;
+  left: 320px;
+  width: 51px;
+}
+.new-redesign-child16-dialog {
+  top: 2956px;
+  left: 325px;
+}
+.frame-child45-dialog,
+.frame-child46-dialog {
+  position: relative;
+  width: 16px;
+  height: 13.07px;
+}
+.frame-child46-dialog {
+  height: 13.42px;
+}
+.frame-parent29-dialog {
+  position: absolute;
+  top: 160px;
+  left: 1017px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+  text-align: center;
+  color: #171313;
+}
+.new-redesign-dialog {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 3687px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #454545;
+  font-family: Poppins;
+}

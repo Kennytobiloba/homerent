@@ -1,0 +1,286 @@
+.group-child-price {
+    position: absolute;
+    top: -0.78px;
+    left: -0.78px;
+    width: 77.94px;
+    height: 56.12px;
+  }
+  .ou-price {
+    color: #ecdb84;
+  }
+  .bgr-price,
+  .house-price {
+    position: absolute;
+    top: 26.5px;
+    left: 7.79px;
+  }
+  .bgr-price {
+    top: 10.91px;
+    left: 15.59px;
+    font-size: 21.82px;
+    font-weight: 900;
+    text-shadow: 0 6.235294818878174px 6.24px rgba(0, 0, 0, 0.25);
+  }
+  .blue-house-icon-isolated-price {
+    position: absolute;
+    top: 6.24px;
+    left: 14.03px;
+    width: 18.71px;
+    height: 15.59px;
+    object-fit: cover;
+  }
+  .vector-parent-price {
+    position: absolute;
+    top: 45.72px;
+    left: 96px;
+    width: 76.38px;
+    height: 54.56px;
+    cursor: pointer;
+    font-size: 18.71px;
+    color: #fff;
+    font-family: Poppins;
+  }
+  .set-a-price-price {
+    position: absolute;
+    top: 168px;
+    left: calc(50% - 285px);
+  }
+  .how-many-toilets-price {
+    position: absolute;
+    top: 177px;
+    left: calc(50% - 1184px);
+    display: inline-block;
+    width: 640px;
+    opacity: 0;
+  }
+  .back-price {
+    position: absolute;
+    top: 13px;
+    left: 51px;
+    font-weight: 500;
+  }
+  .back-wrapper-price {
+    position: relative;
+    border-radius: 16px;
+    border: 1px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 144px;
+    height: 51px;
+    cursor: pointer;
+  }
+  .next-price {
+    position: absolute;
+    top: 13px;
+    left: 53px;
+    font-weight: 500;
+  }
+  .next-wrapper-price {
+    position: relative;
+    border-radius: 16px;
+    background-color: #146859;
+    border: 0.8px solid #bebdbd;
+    box-sizing: border-box;
+    width: 144px;
+    height: 51px;
+    cursor: pointer;
+    color: #fff;
+  }
+  .frame-parent-price {
+    position: absolute;
+    top: 670px;
+    left: calc(50% - 204px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 120px;
+    font-size: 16px;
+    font-family: Poppins;
+  }
+  .create-a-description-price {
+    position: absolute;
+    top: 192px;
+    left: calc(50% + 924px);
+    display: inline-block;
+    width: 857px;
+    opacity: 0;
+  }
+  .share-what-makes-price {
+    position: absolute;
+    top: 256px;
+    left: calc(50% + 1200px);
+    font-size: 16px;
+    line-height: 153.99%;
+    color: #454545;
+    text-align: left;
+    opacity: 0;
+  }
+  .annual-price,
+  .group-item-price {
+    position: absolute;
+    top: 0;
+  }
+  .group-item-price {
+    left: calc(50% - 199px);
+    border-radius: 24px;
+    background-color: #fff;
+    box-shadow: 0 13px 12px 4px rgba(0, 0, 0, 0.04);
+    border: 0.2px solid #146859;
+    box-sizing: border-box;
+    width: 398px;
+    height: 402px;
+  }
+  .annual-price {
+    left: 67px;
+    font-weight: 600;
+  }
+  .payment-breakdown-price {
+    position: absolute;
+    top: 36px;
+    left: 0;
+    font-size: 24px;
+    font-weight: 500;
+    color: #171313;
+  }
+  .annual-parent-price {
+    position: absolute;
+    top: 20px;
+    left: 74px;
+    width: 251px;
+    height: 72px;
+    font-size: 32px;
+    color: #146859;
+  }
+  .house-rent-price {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 600;
+  }
+  .house-rent-wrapper-price {
+    position: relative;
+    width: 92px;
+    height: 24px;
+  }
+  .k-naira-price {
+    position: relative;
+    font-weight: 600;
+    color: #146859;
+  }
+  .group-parent-price {
+    position: absolute;
+    top: 103px;
+    left: 52px;
+    border-radius: 16px;
+    background-color: #fff;
+    border: 1px solid #454545;
+    box-sizing: border-box;
+    width: 295px;
+    height: 33px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 83px;
+  }
+  .security-fee-wrapper-price {
+    position: relative;
+    width: 99px;
+    height: 24px;
+  }
+  .group-container-price {
+    position: absolute;
+    top: 153px;
+    left: 52px;
+    border-radius: 16px;
+    background-color: #fff;
+    border: 1px solid #454545;
+    box-sizing: border-box;
+    width: 295px;
+    height: 33px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 83px;
+  }
+  .electricity-bill-wrapper-price {
+    position: relative;
+    width: 108px;
+    height: 24px;
+  }
+  .frame-div-price {
+    position: absolute;
+    top: 206px;
+    left: 51px;
+    border-radius: 16px;
+    background-color: #fff;
+    border: 1px solid #454545;
+    box-sizing: border-box;
+    width: 295px;
+    height: 33px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 83px;
+  }
+  .damages-fee-wrapper-price {
+    position: relative;
+    width: 112px;
+    height: 24px;
+  }
+  .group-parent1-price {
+    position: absolute;
+    top: 250px;
+    left: 52px;
+    border-radius: 16px;
+    background-color: #fff;
+    border: 1px solid #454545;
+    box-sizing: border-box;
+    width: 295px;
+    height: 33px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 83px;
+  }
+  .total-wrapper-price {
+    position: relative;
+    width: 102px;
+    height: 54px;
+  }
+  .group-parent2-price {
+    position: absolute;
+    top: 324px;
+    left: 47px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+    font-size: 36px;
+  }
+  .rectangle-parent-price {
+    position: absolute;
+    top: 230px;
+    left: calc(50% - 240px);
+    width: 398px;
+    height: 402px;
+    font-size: 16px;
+    color: #454545;
+    font-family: Poppins;
+  }
+  .add-images-price {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 816px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 42px;
+    color: #171313;
+    font-family: Arial;
+  }
+  
